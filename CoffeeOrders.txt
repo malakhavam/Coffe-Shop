@@ -1,0 +1,33 @@
+Draco Malfoy
+Order: Plain Coffee 13 oz
+Price of Coffee: $1.69
+Sales Tax: $0.12 
+Total Amount Owed: $1.81
+
+
+Ron Weasley
+Order: Latte 28 oz
+Price of Coffee: $6.44
+Sales Tax: $0.45 
+Total Amount Owed: $6.89
+
+
+Lord Voldemort
+Order: Plain Coffee 34 oz
+Price of Coffee: $4.42
+Sales Tax: $0.31 
+Total Amount Owed: $4.73
+
+
+Severus Snape
+Order: Macchiato 15 oz
+Price of Coffee: $3.75
+Sales Tax: $0.26
+Total Amount Owed: $4.01
+
+
+Harry Potter
+Order: Frappuccino 57 oz
+Price of Coffee: $15.96
+Sales Tax: $1.12 
+Total Amount Owed: $17.08
