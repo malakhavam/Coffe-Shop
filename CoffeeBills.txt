@@ -1,0 +1,6 @@
+Maryia
+Price of Coffee: $16.75
+Sales Tax: $1.1725
+Total Amount Owed: $17.9225
+
+
